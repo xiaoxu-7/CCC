@@ -1,0 +1,34 @@
+<!--pages/index/inndex.wxml-->
+<view class="box">
+  <view style="text-align: center;">
+<image src="/images/hksd.png"></image>
+</view>
+<view class="textStyle2">
+  山东省，全省近千处旅游景点，基本形成了6大旅游区：济南、泰安、曲阜延伸到邹城的“山水圣人”旅游区(曲阜圣地之旅)；以青岛、烟台、威海为一体的海滨旅游区；以潍坊市区为中心，以风筝、杨家埠木版年画、民俗风情为主体的民俗旅游区；以淄博齐国故城、殉马坑、蒲松龄故居为主体的齐文化旅游区；以黄河入海奇观和原始风貌为特征的东营黄河口旅游区；以水浒故事为主线，梁山、阳谷为重点的“水浒”旅游线。山东还推出曲阜国际孔子文化节、潍坊国际风筝会、泰山国际登山节等旅游节庆活动，开办了孔子文化游、孔子家乡修学旅游、齐鲁民俗旅游、书法旅游、烹饪旅游、钓鱼旅游等３０多项专项旅游活动。
+</view>
+  <view class="textStyle1">
+    👇 👇泰山👇👇
+</view>
+  <view style="text-align: center;">
+<image src="/images/taians.jpg"></image>
+</view>
+<view class="textStyle1">
+  👇 👇泉城👇 👇
+</view>
+<view style="text-align: center;">
+<image src="/images/jinans.jpg"></image>
+</view>
+<view class="textStyle1">
+  👇 👇三孔👇 👇
+</view>
+<view style="text-align: center;">
+<image src="/images/jinings.jpg"></image>
+</view>
+<view class="textStyle1">
+  👇 👇枣庄👇 👇
+</view>
+<view style="text-align: center;">
+<image src="/images/zaozhuangs.jpg"></image>
+</view>
+</view>
+

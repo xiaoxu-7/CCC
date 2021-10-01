@@ -1,0 +1,23 @@
+/* pages/quancheng/quancheng.wxss */
+.textStyle1{
+  color: coral;
+  text-align: center;
+  margin-bottom: 18px;
+  font-size: 18px;
+  word-spacing:normal;
+  white-space: pre-wrap;
+
+}
+.textStyle2{
+  color: black;
+  text-indent: 50px;
+  text-align: left;
+  word-spacing:normal;
+  white-space: pre-wrap;
+}
+.textStyle3{
+  color: rgba(55, 146, 146, 0.959);
+  text-align: center;
+  word-spacing:normal;
+  white-space: pre-wrap;
+}

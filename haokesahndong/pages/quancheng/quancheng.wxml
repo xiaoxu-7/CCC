@@ -1,0 +1,32 @@
+<!--pages/quancheng/quancheng.wxml-->
+<view class="box">
+  <view class="textStyle1">
+  四面荷花三面柳，一城山色半城湖
+</view>
+<view style="text-align: center;">
+<image src="/images/jn1.jpg"></image>
+</view>
+<view class="textStyle2">
+   济南，因地处古四渎之一“济水”之南而得名。城内泉水众多，拥有“七十二名泉”，被称为“泉城”，素有“四面荷花三面柳，一城山色半城湖”的美誉。这里坐拥“天下第一泉”趵突泉的独特景观，发现了以磨光黑陶为特征的“龙山文化”，孕育了名医扁鹊、名相房玄龄、名将秦琼、“婉约派”才女李清照、“豪放派”词人辛弃疾等众多历史名人。境内还有千佛山、大明湖、灵岩寺等名胜古迹。
+</view>
+<view class="textStyle3">
+五龙潭 黑虎泉 趵突泉
+</view>
+<view  style="display: flex;height: 240px;text-align: center;">
+<image style="display: flex;width: 350px;line-height: 800px;text-align: center;"src="/images/wlt.png"></image>
+<view style="display: flex;flex-direction: column;flex-grow: 1;line-height: 150px;">
+<image style="flex-grow: 1;width: 150px;line-height: 500px;"src="/images/btq.png"></image>
+<image style="flex-grow: 1;width: 150px;line-height: 300px;"src="/images/hhq.png"></image>
+</view>
+</view>
+<view class="textStyle3">
+泉城广场 大明湖 千佛山
+</view>
+<view  style="display: flex;height: 240px;text-align: center;">
+<image style="display: flex;width: 350px;line-height: 800px;text-align: center;"src="/images/qcgc.png"></image>
+<view style="display: flex;flex-direction: column;flex-grow: 1;line-height: 150px;">
+<image style="flex-grow: 1;width: 150px;line-height: 500px;"src="/images/qfs.png"></image>
+<image style="flex-grow: 1;width: 150px;line-height: 300px;"src="/images/dmh.png"></image>
+</view>
+</view>
+</view>

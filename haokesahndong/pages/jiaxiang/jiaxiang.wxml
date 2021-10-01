@@ -1,0 +1,32 @@
+<!--pages/quancheng/quancheng.wxml-->
+<view class="box">
+  <view class="textStyle1">
+  铁道游击队，台儿庄大捷
+</view>
+<view style="text-align: center;">
+<image src="/images/zz1.png"></image>
+</view>
+<view class="textStyle2">
+  枣庄有“中国红色经典城市”的美称，坐落在古运河畔的台儿庄大战纪念馆，再现了当年参加台儿庄大战的爱国将士浴血奋战的宏伟场面。2005年，铁道游击队纪念公园、台儿庄大战纪念地被列入全国100个重点红色旅游景区，枣庄市与井冈山、西柏坡、延安一起被国家旅游局确定为全国重点调度的20个红色旅游城市。
+</view>
+<view class="textStyle3">
+台儿庄 铁道游击队 京杭运河
+</view>
+<view  style="display: flex;height: 240px;text-align: center;">
+<image style="display: flex;width: 350px;line-height: 800px;text-align: center;"src="/images/tdyjd.png"></image>
+<view style="display: flex;flex-direction: column;flex-grow: 1;line-height: 150px;">
+<image style="flex-grow: 1;width: 150px;line-height: 500px;"src="/images/tez.png"></image>
+<image style="flex-grow: 1;width: 150px;line-height: 300px;"src="/images/jhyh.png"></image>
+</view>
+</view>
+<view class="textStyle3">
+辣子鸡 菜煎饼 羊肉汤
+</view>
+<view  style="display: flex;height: 240px;text-align: center;">
+<image style="display: flex;width: 350px;line-height: 800px;text-align: center;"src="/images/cjb.png"></image>
+<view style="display: flex;flex-direction: column;flex-grow: 1;line-height: 150px;">
+<image style="flex-grow: 1;width: 150px;line-height: 500px;"src="/images/lzj.png"></image>
+<image style="flex-grow: 1;width: 150px;line-height: 300px;"src="/images/yrt.png"></image>
+</view>
+</view>
+</view>
